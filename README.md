@@ -6,7 +6,7 @@
 ![Redux](https://img.shields.io/badge/Redux-4.x-purple)
 ![Material UI](https://img.shields.io/badge/Material%20UI-5.x-blue)
 
-A comprehensive project management application designed for construction and service companies, featuring project tracking, quotation management, callout service management, and expense tracking.
+A comprehensive project management application designed for constractors and service companies, featuring project tracking, quotation management, callout service management, and expense tracking.
 
 ## 📋 Table of Contents
 
