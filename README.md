@@ -1,6 +1,6 @@
-# Robon Project Management Application
+# Contractor's Project Management Application
 
-![Robon Project Management](https://img.shields.io/badge/Robon-Project%20Management-blue)
+![Project Management Tool](https://img.shields.io/badge/Project%20Management%20Tool-blue)
 ![React](https://img.shields.io/badge/React-18.x-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue)
 ![Redux](https://img.shields.io/badge/Redux-4.x-purple)
@@ -77,8 +77,8 @@ A comprehensive project management application designed for construction and ser
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/robon-project-management-app.git
-   cd robon-project-management-app
+   git clone https://github.com/your-username/project-management-tool.git
+   cd project-management-tool
    ```
 
 2. Install dependencies
